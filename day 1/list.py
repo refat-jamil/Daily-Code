@@ -83,3 +83,6 @@ print(type(course_str))
 new_list = course_str.split(', ')
 print(course_str)
 print(new_list)
+
+ 
+print(max(12, 100, 222))
